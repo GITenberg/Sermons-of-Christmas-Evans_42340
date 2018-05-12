@@ -1,0 +1,34 @@
+_repo: Sermons-of-Christmas-Evans_42340
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cross, Joseph
+    alias: Cross, J. (Joseph)
+    birthdate: 1813
+    deathdate: 1893
+    gutenberg_agent_id: '39069'
+    url: http://www.gutenberg.org/2009/agents/39069
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Christmas
+    birthdate: 1766
+    deathdate: 1838
+    gutenberg_agent_id: '41675'
+    url: http://www.gutenberg.org/2009/agents/41675
+description: ''
+gutenberg_issued: '2013-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, Welsh -- Translations into English'
+- !lcc 'BX'
+title: Sermons of Christmas Evans
+url: http://www.gutenberg.org/ebooks/42340
